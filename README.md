@@ -11,7 +11,7 @@ Team B (Joel, Jacob) solved Ultimate Binary Watch.
 
 Team C (Jake, Elijah) solved Ultimate Binary Watch and Espresso!.
 
-Team A plan to practice on this problem set next week aiming to solve harder problems.
+Team A plans to practice on this problem set next week aiming to solve harder problems.
 
 We discovered similar problem sets that can be used for future practice:
 
