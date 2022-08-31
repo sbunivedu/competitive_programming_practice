@@ -1,5 +1,36 @@
 # Competitive Programming Meeting Minutes
 
+## 8/29/22
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, Jacob, and Dr. Lu
+
+Three team were formed to work on the [2021 North Central Regional problem set](https://ncna21.kattis.com/contests/ncna21).
+
+Team A (Andrew, Drew, Josiah) solved Ultimate Binary Watch ([solution](./src/UltimateBinaryWatch.java) for Team C to look at), Espresso!, Code Guessing, Stream Log.
+
+Team B (Joel, Jacob) solved Ultimate Binary Watch.
+
+Team C (Jake, Elijah) solved Ultimate Binary Watch, and Espresso!.
+
+Team A plan to practice on this problem set next week aiming to solve harder problems.
+
+We discovered similar problems that can be used for future practice:
+
+North Central 
+* https://ncna21.kattis.com/contests/ncna21
+https://ncna20.kattis.com/contests/ncna20
+https://ncna19.kattis.com/contests/ncna19
+
+East Central 
+https://ecna21.kattis.com/contests/ecna21
+https://ecna20.kattis.com/contests/ecna20
+https://ecna19.kattis.com/contests/ecna19
+
+Northeast
+https://nena21.kattis.com/contests/nena21
+https://nena20.kattis.com/contests/nena20
+https://nena19.kattis.com/contests/nena19
+
+ 
 ## 8/22/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, and Dr. Lu
 
