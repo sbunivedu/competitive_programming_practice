@@ -3,7 +3,7 @@
 ## 8/29/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, Jacob, and Dr. Lu
 
-Three team were formed to work on the [2021 North Central Regional problem set](https://ncna21.kattis.com/contests/ncna21).
+Three team were formed to work on the [2021 North Central Regional problem set](https://ncna21.kattis.com/contests/ncna21/problems).
 
 Team A (Andrew, Drew, Josiah) solved Ultimate Binary Watch ([solution](./src/UltimateBinaryWatch.java) for Team C to look at), Espresso!, Code Guessing, Stream Log.
 
@@ -16,19 +16,19 @@ Team A plans to practice on this problem set next week aiming to solve harder pr
 We discovered similar problem sets that can be used for future practice:
 
 North Central 
-* https://ncna21.kattis.com/contests/ncna21
-* https://ncna20.kattis.com/contests/ncna20
-* https://ncna19.kattis.com/contests/ncna19
+* https://ncna21.kattis.com/contests/ncna21/problems
+* https://ncna20.kattis.com/contests/ncna20/problems
+* https://ncna19.kattis.com/contests/ncna19/problems
 
 East Central 
-* https://ecna21.kattis.com/contests/ecna21
-* https://ecna20.kattis.com/contests/ecna20
-* https://ecna19.kattis.com/contests/ecna19
+* https://ecna21.kattis.com/contests/ecna21/problems
+* https://ecna20.kattis.com/contests/ecna20/problems
+* https://ecna19.kattis.com/contests/ecna19/problems
 
 Northeast
-* https://nena21.kattis.com/contests/nena21
-* https://nena20.kattis.com/contests/nena20
-* https://nena19.kattis.com/contests/nena19
+* https://nena21.kattis.com/contests/nena21/problems
+* https://nena20.kattis.com/contests/nena20/problems
+* https://nena19.kattis.com/contests/nena19/problems
 
 World finals problems https://icpc.global/worldfinals/problems
 
