@@ -7,7 +7,7 @@ All three teams continued working on the [2021 North Central Regional problem se
 
 Team A (Andrew, Drew, Josiah) solved the "Land Equality" problem and worked on the "Subprime" problem.
 
-[Sieve of Eratosthenes](https://www.baeldung.com/java-generate-prime-numbers) is efficient method (`O(nlogn)`) for finding all primes numbers up to a limit.
+[Sieve of Eratosthenes](https://www.baeldung.com/java-generate-prime-numbers) is an efficient method (`O(nlogn)`) for finding all primes numbers up to a limit.
 
 Here is a [commentary](https://cs.uwaterloo.ca/~bcsandlu/2-26-22_editorial.pdf) on the problem set.
 
