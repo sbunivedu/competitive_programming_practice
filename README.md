@@ -1,5 +1,20 @@
 # Competitive Programming Meeting Minutes
 
+## 9/6/22
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, and Dr. Lu
+
+All three teams continued working on the [2021 North Central Regional problem set](https://ncna21.kattis.com/contests/ncna21/problems).
+
+Team A (Andrew, Drew, Josiah) solved the "Land Equality" problem and worked on the "Subprime" problem.
+
+[Sieve of Eratosthenes](https://www.baeldung.com/java-generate-prime-numbers) is efficient method (`O(nlogn)`) for finding all primes numbers up to a limit.
+
+Here is a [commentary](https://cs.uwaterloo.ca/~bcsandlu/2-26-22_editorial.pdf) on the problem set.
+
+Team B (Joel, John) solved "Stream Lag".
+
+Team C (Jake, Elijah) solved "Stream Lag" and "Code Guessing".
+
 ## 8/29/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, Jacob, and Dr. Lu
 
