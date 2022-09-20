@@ -1,5 +1,16 @@
 # Competitive Programming Meeting Minutes
 
+## 9/13/22
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, Jacob, Calvin, and Dr. Lu
+
+All three teams continued working on the [2021 North Central Regional problem set](https://ncna21.kattis.com/contests/ncna21/problems).
+
+Team A (Andrew, Drew, Josiah) half-solved the "Parking Lot" problem and worked on the "Bracket Pairing" problem.
+
+Team B (Joel, John, Calvin, Jacob) re-solved "Stream Lag" and solved "Code Guessing".
+
+Team C (Jake, Elijah) solved "Subprime" for the sample test cases, but the solution is not efficient for larger test cases.
+
 ## 9/6/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, and Dr. Lu
 
