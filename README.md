@@ -1,6 +1,15 @@
 # Competitive Programming Meeting Minutes
 
 ## 9/20/22
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, Deacon, and Dr. Lu
+
+All three teams continued working on the [2021 North Central Regional problem set](https://ncna21.kattis.com/contests/ncna21/problems).
+
+Team A (Andrew, Drew, Josiah, Joel) three-quarter-solved the "Parking Lot" problem.
+
+Team C (Jake, Elijah, Deacon) worked on "Lone Rook" problem.
+
+Here are some [books](books.md) and [training sites](sites.md) for competitive programming. 
 
 ## 9/13/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, Jacob, Calvin, and Dr. Lu
