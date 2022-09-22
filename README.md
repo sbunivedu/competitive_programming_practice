@@ -1,5 +1,7 @@
 # Competitive Programming Meeting Minutes
 
+## 9/20/22
+
 ## 9/13/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, Jacob, Calvin, and Dr. Lu
 
