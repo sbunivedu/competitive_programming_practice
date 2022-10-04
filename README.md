@@ -1,5 +1,25 @@
 # Competitive Programming Meeting Minutes
 
+## 9/27/22
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, Deacon, Jacob, and Dr. Lu
+
+Team A (Andrew, Drew, Josiah, Joel) solved the "Parking Lot" problem, hooray!
+Team B (Joel, Jacob), chewed on "Lone Rook" problem.
+Team C (Jake, Elijah, Deacon) chewed on "Lone Rook" problem.
+
+Dr. Lu worked on a plan to go over a book solving and studying typical 
+contest problems. Here are the resources:
+* Book http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
+* Judging site https://onlinejudge.org/
+* Debugging site https://www.udebug.com/
+
+Dr. Lu worked on the "3n+1" at the end of chapter 1. If you are interested, 
+please give it a try to see whether you can pass the judge (https://onlinejudge.org/).
+Dr. Lu ran into some interesting problems and has a "mystery" for you to solve
+(two seemingly equivalent solutions, one passes the judge and the other fails).
+Solutions to the problems and related discussions will appear in this repository: 
+https://github.com/sbunivedu/ICPC_practice
+
 ## 9/20/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, Deacon, and Dr. Lu
 
