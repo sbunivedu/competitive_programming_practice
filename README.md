@@ -1,5 +1,10 @@
 # Competitive Programming Meeting Minutes
 
+## 10/4/22
+Participants: Andrew, Joel, Elijah, Jake, Deacon, and Dr. Lu
+
+Andrew explained his team's solution to "Parking Lot" problem.
+
 ## 9/27/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, Deacon, Jacob, and Dr. Lu
 
