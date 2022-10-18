@@ -1,15 +1,24 @@
 # Competitive Programming Meeting Minutes
 
+## 10/11/22
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, and Dr. Lu
+
+Team A (Andrew, Drew, Josiah, Joel) tinkered on the "Bracket Pairing" problem.
+
+Team B (Joel, John) solved the "Espresso" problem.
+
+Team C (Jake, Elijah) solved the "3n+1" from chapter 1 of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf. The [solution](https://gist.github.com/lubaochuan/48a405f9214236af90b3857ebd663ade) was accepted on https://onlinejudge.org/
+
 ## 10/4/22
 Participants: Andrew, Joel, Elijah, Jake, Deacon, and Dr. Lu
-
-Andrew explained his team's solution to "Parking Lot" problem.
 
 ## 9/27/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, Deacon, Jacob, and Dr. Lu
 
 Team A (Andrew, Drew, Josiah, Joel) solved the "Parking Lot" problem, hooray!
+
 Team B (Joel, Jacob), chewed on "Lone Rook" problem.
+
 Team C (Jake, Elijah, Deacon) chewed on "Lone Rook" problem.
 
 Dr. Lu worked on a plan to go over a book solving and studying typical 
