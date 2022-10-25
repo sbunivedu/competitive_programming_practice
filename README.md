@@ -1,5 +1,15 @@
 # Competitive Programming Meeting Minutes
 
+## 10/18/22
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, Deacon, and Dr. Lu
+
+Team A (Andrew, Drew, Josiah) continued tinkering on the "Bracket Pairing" problem.
+
+Team B (Joel, John) solved the "Ultimate Binary Watch" and the "Concert Rehearsal"
+problems from https://ncna21.kattis.com/contests/ncna21/problems
+
+Team C (Jake, Elijah, Deacon) solved the "Minesweeper" problem from chapter 1 of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf and learned an important lesson on "presentation error".
+
 ## 10/11/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, and Dr. Lu
 
