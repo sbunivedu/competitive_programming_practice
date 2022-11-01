@@ -1,5 +1,14 @@
 # Competitive Programming Meeting Minutes
 
+## 10/25/22
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake,  Deacon, and Dr. Lu
+
+Team A (Andrew, Drew, Josiah) continued tinkering on the "Bracket Pairing" problem and "found another way not to make a light bulb".
+
+Team B (Joel) worked on a contest problem.
+
+Team C (Jake, Elijah, Deacon) solved the "Trip" problem from chapter 1 of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf.
+
 ## 10/18/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, Deacon, and Dr. Lu
 
