@@ -1,5 +1,14 @@
 # Competitive Programming Meeting Minutes
 
+## 11/1/22
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake,  Deacon, and Dr. Lu
+
+Team A (Andrew, Drew, Josiah) solved the "Bracket Pairing" problem!
+
+Team B (Joel) solved the "code guessing" prolem.
+
+Team C (Jake, Elijah, Deacon) solved the "LCD Display" problem from chapter 1 of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf.
+
 ## 10/25/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake,  Deacon, and Dr. Lu
 
