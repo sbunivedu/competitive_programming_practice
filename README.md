@@ -1,11 +1,22 @@
 # Competitive Programming Meeting Minutes
 
+## 11/8/22
+Participants: Andrew, Joel, Elijah, Jake, Ryan, and Dr. Lu
+
+Andrew shared with the group his solution to "Bracket Pairing".
+
+Team A (Andrew) started on the "Tree Number Generator" problem!
+
+Team B (Joel) worked with Andrew.
+
+Team C (Jake, Elijah, Ryan) worked on the "Graphical Editor" problem from chapter 1 of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf and had a lot of fun.
+
 ## 11/1/22
-Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake,  Deacon, and Dr. Lu
+Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, Deacon, and Dr. Lu
 
 Team A (Andrew, Drew, Josiah) solved the "Bracket Pairing" problem!
 
-Team B (Joel) solved the "code guessing" prolem.
+Team B (Joel) solved the "code guessing" problem.
 
 Team C (Jake, Elijah, Deacon) solved the "LCD Display" problem from chapter 1 of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf.
 
