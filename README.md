@@ -1,5 +1,12 @@
 # Competitive Programming Meeting Minutes
 
+## 11/15/22
+Participants: Andrew, Joel, Jake, and Dr. Lu
+
+Andrew and Joel solved the "Tree Number Generator" problem!
+
+Jake solved the "Graphical Editor" problem.
+
 ## 11/8/22
 Participants: Andrew, Joel, Elijah, Jake, Ryan, and Dr. Lu
 
