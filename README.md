@@ -3,12 +3,11 @@
 ## 1/31/23
 Participants: Andrew, Josiah, Jake, Elijah, John, Derrick, and Dr. Lu
 
-
-Andrew and Josiah worked on [2020 North Central problme set](https://ncna20.kattis.com/contests/ncna20/problems) and we solved problems D, E, and H.
+Andrew and Josiah worked on [2020 North Central problme set](https://ncna20.kattis.com/contests/ncna20/problems) and solved problems D, E, and H.
 
 Jake, Elijah, and John worked on the "Interpreter" problem from http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf. Derrick solved the "3n+1" problme from the same book.
 
-Dr. Lu registered "SBU purple" and "SBU violet" for 2022 ICPC Mid-central contest (Feb. 25 1-6pm at SBU).
+Dr. Lu registered "SBU purple" and "SBU violet" teams for 2022 ICPC Mid-central contest (Feb. 25 1-6pm at SBU).
 
 Andrew recommended the following material (printed) to bring to the contest:
 * A math [formula sheet](https://coralgables-sh.enschool.org/ourpages/auto/2017/5/17/53540930/Math%20HL%20formula%20booklet.pdf)(e.g. this one, though it is much longer than you would ever need)
@@ -16,7 +15,7 @@ Andrew recommended the following material (printed) to bring to the contest:
 * Lots of previous example problems ([here](https://github.com/AndrewEisenhour/portfolio/tree/main/ICPC) are a bunch of my old solutions)
 * A few key algorithms, especially Dijkstra's, could be useful to have (I have a couple versions in that repository)
 * An [ASCII table](https://www.asciitable.com/)
-* That should cover a lot of it for people. Obviously, the more you bring, the better prepared you will be. Too much stuff can make it hard to search through though. At least people should bring and example program that takes input, does something with it, and gives output. That will help with the brain farts that happen in competition when people forgot how to use a scanner.
+* That should cover a lot of it for people. Obviously, the more you bring, the better prepared you will be. Too much stuff can make it hard to search through though. At least people should bring an example program that takes input, does something with it, and gives output. That will help with the brain farts that happen in competition when people forgot how to use a scanner.
 
 ## 11/15/22
 Participants: Andrew, Joel, Jake, and Dr. Lu
