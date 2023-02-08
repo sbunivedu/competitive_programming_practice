@@ -1,5 +1,12 @@
 # Competitive Programming Meeting Minutes
 
+## 2/7/23
+Participants: Andrew, Josiah, Jake, Elijah, Deacon, Ryan, and Dr. Lu
+
+Andrew and Josiah worked on [2020 North Central problme set](https://ncna20.kattis.com/contests/ncna20/problems) and solved problems A and K.
+
+Jake, Elijah, and Ryan worked on the "Interpreter" problem from http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf. Deacon worked on the "Check the Check" problme from the same book.
+
 ## 1/31/23
 Participants: Andrew, Josiah, Jake, Elijah, John, Derrick, and Dr. Lu
 
