@@ -1,5 +1,10 @@
 # Competitive Programming Meeting Minutes
 
+## 2/16/23
+Participants: Andrew, Josiah, and Dr. Lu
+
+Andrew and Josiah worked on [2020 North Central problme set](https://ncna20.kattis.com/contests/ncna20/problems) and solved problem I.
+
 ## 2/7/23
 Participants: Andrew, Josiah, Jake, Elijah, Deacon, Ryan, and Dr. Lu
 
@@ -91,17 +96,17 @@ Team B (Joel, Jacob), chewed on "Lone Rook" problem.
 
 Team C (Jake, Elijah, Deacon) chewed on "Lone Rook" problem.
 
-Dr. Lu worked on a plan to go over a book solving and studying typical 
+Dr. Lu worked on a plan to go over a book solving and studying typical
 contest problems. Here are the resources:
 * Book http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
 * Judging site https://onlinejudge.org/
 * Debugging site https://www.udebug.com/
 
-Dr. Lu worked on the "3n+1" at the end of chapter 1. If you are interested, 
+Dr. Lu worked on the "3n+1" at the end of chapter 1. If you are interested,
 please give it a try to see whether you can pass the judge (https://onlinejudge.org/).
 Dr. Lu ran into some interesting problems and has a "mystery" for you to solve
 (two seemingly equivalent solutions, one passes the judge and the other fails).
-Solutions to the problems and related discussions will appear in this repository: 
+Solutions to the problems and related discussions will appear in this repository:
 https://github.com/sbunivedu/ICPC_practice
 
 ## 9/20/22
@@ -113,7 +118,7 @@ Team A (Andrew, Drew, Josiah, Joel) three-quarter-solved the "Parking Lot" probl
 
 Team C (Jake, Elijah, Deacon) worked on "Lone Rook" problem.
 
-Here are some [books](books.md) and [training sites](sites.md) for competitive programming. 
+Here are some [books](books.md) and [training sites](sites.md) for competitive programming.
 
 ## 9/13/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, John, Jacob, Calvin, and Dr. Lu
@@ -156,12 +161,12 @@ Team A plans to practice on this problem set next week aiming to solve harder pr
 
 We discovered similar problem sets that can be used for future practice:
 
-North Central 
+North Central
 * https://ncna21.kattis.com/contests/ncna21/problems
 * https://ncna20.kattis.com/contests/ncna20/problems
 * https://ncna19.kattis.com/contests/ncna19/problems
 
-East Central 
+East Central
 * https://ecna21.kattis.com/contests/ecna21/problems
 * https://ecna20.kattis.com/contests/ecna20/problems
 * https://ecna19.kattis.com/contests/ecna19/problems
@@ -178,7 +183,7 @@ ICPC regionals in north America are defined as follows https://icpc.global/regio
 ## 8/22/22
 Participants: Andrew, Drew, Joel, Josiah, Elijah, Jake, and Dr. Lu
 
-Andrew gave short introductions to the different competitions we participate in 
+Andrew gave short introductions to the different competitions we participate in
 ([ICPC](https://icpc.global/), [CCSC](https://www.ccsc.org/centralplains/programming-contest/),
 and [Federal Reserve Bank Code-A-Thon](https://www.kansascityfed.org/about-us/code-a-thon/#:~:text=The%20Kansas%20City%20Fed%20Code,that%20solve%20real%2Dlife%20problems.)).
 
