@@ -1,5 +1,12 @@
 # Competitive Programming Meeting Minutes
 
+## 3/7/23
+Participants: Andrew, Josiah, Jake, Elijah, Deacon, and Dr. Lu
+
+Andrew and Josiah worked on [2022 Mid Central problme set](https://mcpc22.kattis.com/contests/mcpc22/problems) and showed the other team the solution to "Hunt the Wumpus" problem.
+
+Jake, Elijah, and Deacon worked on the "Check the Check" problem from http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf.
+
 ## 2/16/23
 Participants: Andrew, Josiah, and Dr. Lu
 
