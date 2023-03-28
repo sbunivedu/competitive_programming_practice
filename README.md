@@ -1,5 +1,14 @@
 # Competitive Programming Meeting Minutes
 
+## 3/14/23
+Participants: Andrew, Jake, Elijah, and Dr. Lu
+
+Andrew worked on picking problems for the upcoming highschool programming contest.
+
+Jake solved the "Check the Check" problem from http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf.
+
+Somehow, we were drawn to islands near Alaska on Google map and played a round of geoguesser at https://www.geoguessr.com/
+
 ## 3/7/23
 Participants: Andrew, Josiah, Jake, Elijah, Deacon, and Dr. Lu
 
