@@ -1,5 +1,16 @@
 # Competitive Programming Meeting Minutes
 
+## 3/28/23
+Participants: Andrew, Josiah, Jake, Elijah, Deacon, and Dr. Lu
+
+A team was formed for the CCSC hackathon https://www.ccsc.org/centralplains/hackathon/.
+It consists of Andrew, Josiah, Jake, Elijah, and Nick.
+
+Andrew worked on picking problems for the upcoming highschool programming contest.
+
+In preparation for the hackathon, Elijah and Jake asked chatGPT to write a "blocky world game"
+and get the [result code](BlockyWorld.java) to work with a few edits.
+
 ## 3/14/23
 Participants: Andrew, Jake, Elijah, and Dr. Lu
 
