@@ -1,5 +1,13 @@
 # Competitive Programming Meeting Minutes
 
+## 8/29/23
+
+Participants: Josiah, Jake, John, Luke, Kaden, and Dr. Lu
+
+Josiah and Jake worked on the "Australian Voting" problem from http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf.
+
+Luke and Kaden studied the various sieve methods for the "Largest Prime Factor" problem on project euler https://projecteuler.net/problem=3
+
 ## 3/28/23
 Participants: Andrew, Josiah, Jake, Elijah, Deacon, and Dr. Lu
 
