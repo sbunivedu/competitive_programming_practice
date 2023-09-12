@@ -1,5 +1,13 @@
 # Competitive Programming Meeting Minutes
 
+## 9/5/23
+
+Participants: Josiah, Jake, Elijah, Ryan, and Dr. Lu
+
+Elijah and Ryan worked on the "Australian Voting" problem from http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf.
+
+Josiah and Jake solved the "Australian Voting" problem.
+
 ## 8/29/23
 
 Participants: Josiah, Jake, John, Luke, Kaden, and Dr. Lu
