@@ -1,5 +1,13 @@
 # Competitive Programming Meeting Minutes
 
+## 9/12/23
+
+Participants: Jake, Elijah, Ryan, and Dr. Lu
+
+Jake and Elijah studied the "Australian Voting" solution in functional style Java from [this solution manuel](pc.pdf) along with a [list of tutorials](functional_java.md).
+
+Ryan came in late and joined the fun.
+
 ## 9/5/23
 
 Participants: Josiah, Jake, Elijah, Ryan, and Dr. Lu
