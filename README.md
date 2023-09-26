@@ -4,7 +4,7 @@
 
 Participants: Jake, Elijah, and Dr. Lu
 
-Jake and Elijah solved the "Jolly Jumpers" in the second chapter of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
+Jake and Elijah solved the "Jolly Jumpers" problem from the second chapter of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
 
 ## 9/12/23
 
