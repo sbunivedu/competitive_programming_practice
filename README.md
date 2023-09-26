@@ -1,5 +1,11 @@
 # Competitive Programming Meeting Minutes
 
+## 9/19/23
+
+Participants: Jake, Elijah, and Dr. Lu
+
+Jake and Elijah solved the "Jolly Jumper" in the second chapter of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf.studied
+
 ## 9/12/23
 
 Participants: Jake, Elijah, Ryan, and Dr. Lu
