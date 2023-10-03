@@ -1,5 +1,11 @@
 # Competitive Programming Meeting Minutes
 
+## 9/26/23
+
+Participants: Jake, Elijah, and Dr. Lu
+
+Jake and Elijah worked on the "Poker Hands" problem from the second chapter of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
+
 ## 9/19/23
 
 Participants: Jake, Elijah, and Dr. Lu
