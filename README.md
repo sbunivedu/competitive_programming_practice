@@ -1,5 +1,15 @@
 # Competitive Programming Meeting Minutes
 
+## 10/3/23
+
+Participants: Josiah, Jake, Elijah, and Dr. Lu
+
+Jake and Elijah abandoned the "Poker Hands" problem because it is very tedious.
+
+Josiah, Jake and Elijah solved the "Hartals" problem from the second chapter of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf, but the UVA judge gives a "Runtime Error" verdict.
+
+Josiah found a great training resource https://github.com/PuzzlesLab/UVA/tree/master/King, which has solutions to many UVA problems along with training videos.
+
 ## 9/26/23
 
 Participants: Jake, Elijah, and Dr. Lu
