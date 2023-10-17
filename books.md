@@ -4,3 +4,7 @@
 * The Art of Programming Contest https://www.comp.nus.edu.sg/~stevenha/database/Art_of_Programming_Contest_SE_for_uva.pdf
 * Competitive Programmer’s Handbook (2018) https://cses.fi/book/book.pdf
 * The Hitchhiker's Guide to the Programming Contests https://comscigate.com/Books/contests/icpc.pdf
+
+## Solution Sets
+* https://github.com/jcbages/uva-online-judge-solutions
+* https://github.com/PuzzlesLab/UVA/tree/master/King

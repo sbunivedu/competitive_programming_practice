@@ -1,5 +1,13 @@
 # Competitive Programming Meeting Minutes
 
+## 10/10/23
+
+Participants: Josiah, Jake, Elijah, and Dr. Lu
+
+Josiah, Jake and Elijah worked on some problems from the second chapter of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
+
+The UVA judge "Runtime Error" issue was solved. The judge only accepts Java solutions defined in a class named "Main" and hands out a "Runtime Error" verdict for all other class names.
+
 ## 10/3/23
 
 Participants: Josiah, Jake, Elijah, and Dr. Lu
