@@ -1,5 +1,11 @@
 # Competitive Programming Meeting Minutes
 
+## 10/17/23
+
+Participants: Jake, Elijah, and Dr. Lu
+
+Jake and Elijah worked on Crypt Kicker from the second chapter of http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
+
 ## 10/10/23
 
 Participants: Josiah, Jake, Elijah, and Dr. Lu
