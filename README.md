@@ -1,5 +1,11 @@
 # Competitive Programming Meeting Minutes
 
+## 10/24/23
+
+Participants: Elijah, and Dr. Lu
+
+Elijah and Dr. Lu studied the solution to "Crypt Kicker" at https://www.martystepp.com/acm/problems/843-crypt-kicker/Solution.java
+
 ## 10/17/23
 
 Participants: Jake, Elijah, and Dr. Lu
