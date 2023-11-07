@@ -1,5 +1,13 @@
 # Competitive Programming Meeting Minutes
 
+## 10/31/23
+
+Participants: Elijah, Josiah, and Dr. Lu
+
+Elijah and Josiah worked on the "Two Sum" problem on https://leetcode.com/
+
+Dr. Lu tried to reproduce the solution to "Crypt Kicker" at https://www.martystepp.com/acm/problems/843-crypt-kicker/Solution.java
+
 ## 10/24/23
 
 Participants: Elijah, and Dr. Lu
