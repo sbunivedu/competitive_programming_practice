@@ -6,7 +6,7 @@ Participants: Elijah, Josiah, Jake, and Dr. Lu
 
 Elijah, Jake, and Josiah worked on some problems on https://leetcode.com/
 
-Dr. Lu had to copy (practicihg what he preached) the solution code to the "Crypt Kicker" problem twice to understand it in order to reproduce it from scratch: https://www.martystepp.com/acm/problems/843-crypt-kicker/Solution.java
+Dr. Lu had to copy (practicing what he preached) the solution code to the "Crypt Kicker" problem twice to understand it in order to reproduce it from scratch: https://www.martystepp.com/acm/problems/843-crypt-kicker/Solution.java
 
 ## 10/31/23
 
