@@ -1,5 +1,24 @@
 # Competitive Programming Meeting Minutes
 
+## 8/27/24
+Participants: Josiah, Jake, Luke, Lucas, Alex, Jayna, and Dr. Lu
+
+Josiah, Jake, Luke worked together on some past contest problems
+and brainstormed about hackthons.
+
+Lucas will work with Alex to gain working knowledge of Python
+as quickly as possible. Lucas started with the Python track on 
+codingbat: https://codingbat.com/python Other good resources include:
+* "Python Basics" learning path on realpython.com at https://realpython.com/learning-paths/python-basics/
+* "Legacy Python for Everybody" course on freecodecamp.org at https://www.freecodecamp.org/learn/python-for-everybody/
+* https://replit.com/~ is good online coding playground for Python
+and many other languages.
+
+Jayna will work with Dr. Lu to create a practice plan as she
+had to leave early for band pratice. 
+"Leetcode 75" study plan at https://leetcode.com/studyplan/leetcode-75/
+should be a good starting point.
+
 ## 11/7/23
 
 Participants: Elijah, Josiah, Jake, and Dr. Lu
