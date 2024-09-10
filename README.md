@@ -1,5 +1,18 @@
 # Competitive Programming Meeting Minutes
 
+## 9/3/24
+Participants: Josiah, Jake, Luke, Lucas, and Dr. Lu
+
+Josiah, Jake, Luke worked together on the following problems on leetcode:
+* https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/description/
+* https://leetcode.com/problems/repeated-substring-pattern/description/
+* https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/
+
+Lucas worked on exercise problems on codingbat. He found out
+the "Python Basics" learning path on realpython.com is not completely free.
+The Python for Everybody at https://www.py4e.com/ is completely free
+and it is also featured on freecodecamp.org at https://www.freecodecamp.org/learn/python-for-everybody/
+
 ## 8/27/24
 Participants: Josiah, Jake, Luke, Lucas, Alex, Jayna, and Dr. Lu
 
