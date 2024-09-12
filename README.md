@@ -1,5 +1,18 @@
 # Competitive Programming Meeting Minutes
 
+## 9/10/24
+Participants: Jake, Luke, Lucas, and Dr. Lu
+
+Lucas solved many problems in the Python track on https://codingbat.com/python
+
+Luke solved problem #1038 on leetcode https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/ and started on another one.
+
+Jake solved the following problems on leetcode:
+* https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/
+* https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/
+* https://leetcode.com/problems/split-linked-list-in-parts/description/
+* https://leetcode.com/problems/spiral-matrix-iv/description/
+
 ## 9/3/24
 Participants: Josiah, Jake, Luke, Lucas, and Dr. Lu
 
@@ -20,7 +33,7 @@ Josiah, Jake, Luke worked together on some past contest problems
 and brainstormed about hackthons.
 
 Lucas will work with Alex to gain working knowledge of Python
-as quickly as possible. Lucas started with the Python track on 
+as quickly as possible. Lucas started with the Python track on
 codingbat: https://codingbat.com/python Other good resources include:
 * "Python Basics" learning path on realpython.com at https://realpython.com/learning-paths/python-basics/
 * "Legacy Python for Everybody" course on freecodecamp.org at https://www.freecodecamp.org/learn/python-for-everybody/
@@ -28,7 +41,7 @@ codingbat: https://codingbat.com/python Other good resources include:
 and many other languages.
 
 Jayna will work with Dr. Lu to create a practice plan as she
-had to leave early for band pratice. 
+had to leave early for band pratice.
 "Leetcode 75" study plan at https://leetcode.com/studyplan/leetcode-75/
 should be a good starting point.
 
