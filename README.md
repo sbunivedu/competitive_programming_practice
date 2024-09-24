@@ -1,5 +1,16 @@
 # Competitive Programming Meeting Minutes
 
+## 9/17/24
+Participants: Jake, Luke, Lucas, and Dr. Lu
+
+Lucas worked on the "round_sum" problem https://codingbat.com/prob/p179960
+
+Luke solved the following problems:
+* #1282 https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/
+* #3 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
+Jake solved #179 https://leetcode.com/problems/largest-number/description/
+
 ## 9/10/24
 Participants: Jake, Luke, Lucas, and Dr. Lu
 
