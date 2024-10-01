@@ -1,5 +1,21 @@
 # Competitive Programming Meeting Minutes
 
+## 9/24/24
+Participants: Jake, Luke, Lucas, and Dr. Lu
+
+Luke solved the following problems:
+* #45 https://leetcode.com/problems/jump-game-ii/description/
+* #2807 https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/
+
+Jake solved the following problems:
+* #2707 https://leetcode.com/problems/extra-characters-in-a-string/description/
+* #3043 https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/
+* #440 https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/
+
+Lucas solved the "round_sum" problem https://codingbat.com/prob/p179960 and learned a great
+deal about how Python 2 and Python 3 handle integer division and rounding differently, e.g.
+Python 3's built-in `round()` function uses Banker's rounding (also known as "round half to even").
+
 ## 9/17/24
 Participants: Jake, Luke, Lucas, and Dr. Lu
 
