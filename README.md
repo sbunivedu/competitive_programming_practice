@@ -1,5 +1,15 @@
 # Competitive Programming Meeting Minutes
 
+## 10/1/24
+Participants: Jake, Luke, Josiah, and Elijiah
+
+Luke solved the following problems:
+* #2181 https://leetcode.com/problems/merge-nodes-in-between-zeros
+* #1689 https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers
+* #1476 https://leetcode.com/problems/subrectangle-queries
+
+Jake, Josiah, and Elijiah designed the team's [dream T-shirt](dream_shirt.png).
+
 ## 9/24/24
 Participants: Jake, Luke, Lucas, and Dr. Lu
 
