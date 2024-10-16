@@ -1,5 +1,13 @@
 # Competitive Programming Meeting Minutes
 
+## 10/8/24
+Participants: Jake, Luke and Dr. Lu
+
+Luke solved #1610 https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions and
+studied problems in the NAQ 2024 problem set https://naq24.kattis.com/contests/naq24/problems
+
+Jake solved B, C, E in NAQ 2024 problem set https://naq24.kattis.com/contests/naq24/problems
+
 ## 10/1/24
 Participants: Jake, Luke, Josiah, and Elijiah
 
