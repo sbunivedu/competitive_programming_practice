@@ -1,5 +1,14 @@
 # Competitive Programming Meeting Minutes
 
+## 10/22/24
+Participants: Jake, Luke, Lucas and Dr. Lu
+Luke solved the following problems:
+* #3211 https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros
+* #654 https://leetcode.com/problems/maximum-binary-tree
+* #1769 https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box
+* #1315 https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent
+* #2125 https://leetcode.com/problems/number-of-laser-beams-in-a-bank
+
 ## 10/8/24
 Participants: Jake, Luke and Dr. Lu
 
