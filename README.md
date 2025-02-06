@@ -1,4 +1,34 @@
 # Competitive Programming Meeting Minutes
+## 2/5/25
+
+## 1/29/25
+Participants: Jake, Luke, Lucas, Elijiah, and Remington
+
+Jake, Luke, and Elijiah looked at some "string" problems in
+http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf and found them too easy.
+
+Remington and Dr. Lu looked at the "Yahtzee" problem.
+
+Here is the "competitive programmer's handbook" https://cses.fi/book/book.pdf
+
+## 1/21/25
+Participants: Jake, Luke, Lucas, and Remington
+
+## 11/5/24
+Participants: Jake, Luke, Lucas, Alex and Dr. Lu
+
+## 10/29/24
+Participants: Jake, Luke, Lucas and Dr. Lu
+
+Luke solved the following problems:
+* #2391 https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage
+* #2161 https://leetcode.com/problems/partition-array-according-to-given-pivot
+
+Lucas solved #26 https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+
+Guides on handling I/O:
+* for all programmers https://support.kattis.com/support/solutions/articles/79000120852-how-do-i-handle-input-and-output-
+* for Python programmers https://mwermelinger.github.io/kattis-guide/input.html
 
 ## 10/22/24
 Participants: Jake, Luke, Lucas and Dr. Lu
