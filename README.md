@@ -1,5 +1,28 @@
 # Competitive Programming Meeting Minutes
+## 3/26/25
+Participants: Jake, Elijiah, Remington, Luke, Lucas, and Dr. Lu
+
+Luke solved the following problems:
+* Java int to string https://www.hackerrank.com/challenges/java-int-to-string?isFullScreen=true
+* Java date and time https://www.hackerrank.com/challenges/java-date-and-time?isFullScreen=true
+* Java currency formatter https://www.hackerrank.com/challenges/java-currency-formatter?isFullScreen=true
+* Java strings introduction https://www.hackerrank.com/challenges/java-strings-introduction?isFullScreen=true
+* Java substring https://www.hackerrank.com/challenges/java-substring?isFullScreen=true
+* *ava string compare https://www.hackerrank.com/challenges/java-string-compare?isFullScreen=true
+* Java string reverse https://www.hackerrank.com/challenges/java-string-reverse?isFullScreen=true
+
+Luke, Lucas, and Dr. Lu worked on the following problems:
+* https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+* https://leetcode.com/problems/container-with-most-water/
+
+## 2/26/25
+Luke solved the following problems on hackerrank.com:
+* Java Stdin and Stdout II
+* Java Output Formatting
+* Java Loops I
+
 ## 2/5/25
+Participants: Jake, Elijiah, Remington, and Dr. Lu
 
 ## 1/29/25
 Participants: Jake, Luke, Lucas, Elijiah, and Remington
@@ -12,7 +35,7 @@ Remington and Dr. Lu looked at the "Yahtzee" problem.
 Here is the "competitive programmer's handbook" https://cses.fi/book/book.pdf
 
 ## 1/21/25
-Participants: Jake, Luke, Lucas, and Remington
+Participants: Jake, Luke, Lucas, Remington, and Dr. Lu
 
 ## 11/5/24
 Participants: Jake, Luke, Lucas, Alex and Dr. Lu
