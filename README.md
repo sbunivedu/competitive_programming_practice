@@ -1,4 +1,17 @@
 # Competitive Programming Meeting Minutes
+
+## 8/27/25
+Participants: Micah, Chandler, and Dr. Lu
+
+The following resources were shared:
+* tons of practice problems https://leetcode.com/
+* basics coding practice problems in Java and Python https://codingbat.com/java
+* training book 1 "Programming Challenges" http://acm.cs.buap.mx/downloads/Programming_Challenges.pdf
+* training book 2 "competitive programmer's handbook" https://cses.fi/book/book.pdf
+
+Micah solved the "two sum" problem and learned how to do it with O(n) efficiency using a dictionary：
+https://leetcode.com/problems/two-sum/
+
 ## 3/26/25
 Participants: Jake, Elijiah, Remington, Luke, Lucas, and Dr. Lu
 
