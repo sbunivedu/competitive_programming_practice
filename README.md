@@ -1,5 +1,32 @@
 # Competitive Programming Meeting Minutes
 
+## 9/10/25
+Participants: Lucas, Micah, and Dr. Lu
+
+Lucas has been using codingbat.com to warmup his Java programming muscles.
+
+## 9/9/25
+Participants: Luke, Remington, and Dr. Lu
+
+## 9/3/25
+Participants: Micah, Lucas, and Dr. Lu
+
+## 9/2/25
+Participants: Luke, Remington, and Dr. Lu
+
+Remington explored various learning resources to catch up on python.
+
+https://www.freecodecamp.org/learn/python-for-everybody/
+https://codingbat.com/python
+https://leetcode.com/problemset/
+
+These two are linked by the official python.org website
+https://python.land/python-tutorial
+https://wiki.python.org/moin/BeginnersGuide/Programmers
+
+This is a very good site. It has interactive elements even better then freecodecamp in my opinion. However, after the first couple of chapters, the interactive elements are locked behind a paywall. After that, all of the videos, documentation, and sample code are still free for use.
+https://www.boot.dev/
+
 ## 8/27/25
 Participants: Micah, Chandler, and Dr. Lu
 
