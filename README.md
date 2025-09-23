@@ -16,16 +16,17 @@ Participants: Luke, Remington, and Dr. Lu
 
 Remington explored various learning resources to catch up on python.
 
-https://www.freecodecamp.org/learn/python-for-everybody/
-https://codingbat.com/python
-https://leetcode.com/problemset/
+* https://www.freecodecamp.org/learn/python-for-everybody/
+* https://codingbat.com/python
+* https://leetcode.com/problemset/
 
 These two are linked by the official python.org website
-https://python.land/python-tutorial
-https://wiki.python.org/moin/BeginnersGuide/Programmers
+* https://python.land/python-tutorial
+* https://wiki.python.org/moin/BeginnersGuide/Programmers
 
 This is a very good site. It has interactive elements even better then freecodecamp in my opinion. However, after the first couple of chapters, the interactive elements are locked behind a paywall. After that, all of the videos, documentation, and sample code are still free for use.
-https://www.boot.dev/
+ht
+tps://www.boot.dev/
 
 ## 8/27/25
 Participants: Micah, Chandler, and Dr. Lu
