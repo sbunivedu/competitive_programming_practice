@@ -1,5 +1,36 @@
 # Competitive Programming Meeting Minutes
 
+## 1/27/26 2-4 pm
+Participants: Luke, Remington, Micah, and Dr. Lu
+
+Reviewed AI solution to https://open.kattis.com/problems/10kindsofpeople and the explanation+tracing at https://github.com/sbunivedu/ICPC_practice/tree/main/10kindsofpeople
+
+Lessons learned:
+* Use breadth-first search to avoid recursive depth-first search, which may cause stack overflow.
+* Use pre-processing to avoid repeated traversals.
+
+Everyone solved https://open.kattis.com/problems/3dprinter
+
+Luke solved https://open.kattis.com/problems/a1paper
+* Luke's solution embellished with AI generated comments https://github.com/sbunivedu/ICPC_practice/blob/main/a1paper/Luke.java
+* AI explanation of the solution with the trace of a test case https://github.com/sbunivedu/ICPC_practice/blob/main/a1paper/explanation.md
+
+## 1/20/26 2-4 pm
+Participants: Luke, Remington, Micah, and Dr. Lu
+
+We set out to solve https://open.kattis.com/problems/10kindsofpeople
+
+## 10/14/25
+Participants: Luke, Remington, and Dr. Lu
+
+Reminton discovered https://vjudge.net/ where you can submit solutions and get judged by popular judging sites.
+
+We are working past contest problems to prepare for the upcoming ICPC mid-central:
+* https://mcpc24.kattis.com/contests/mcpc24
+* https://open.kattis.com/contests/mcpc23open
+
+Luke discovered that if you can search and find a contest problem on Kattis' home page https://open.kattis.com/ (search box on bottom left corner) you can submit a solution for judging.
+
 ## 9/10/25
 Participants: Lucas, Micah, and Dr. Lu
 
