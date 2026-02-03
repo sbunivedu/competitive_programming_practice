@@ -1,5 +1,16 @@
 # Competitive Programming Meeting Minutes
 
+## 2/3/26 2-4pm
+Participants: Luke, Remington, Micah, and Dr. Lu
+
+We set out to solve:
+* 8 Queens (B/0) https://open.kattis.com/problems/8queens
+* 4 Thought (B/0) https://open.kattis.com/problems/4thought
+
+Solutions along with AI comments:
+* https://github.com/sbunivedu/ICPC_practice/tree/main/8queens
+* https://github.com/sbunivedu/ICPC_practice/tree/main/4thought
+
 ## 1/27/26 2-4 pm
 Participants: Luke, Remington, Micah, and Dr. Lu
 
