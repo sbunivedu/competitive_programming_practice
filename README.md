@@ -1,5 +1,15 @@
 # Competitive Programming Meeting Minutes
 
+## 2/10/26 2-4pm
+Participants: Luke, Remington, Micah, and Dr. Lu
+
+They solved the followin problems:
+* I Hate The Number Nine https://open.kattis.com/problems/nine
+* Aldursröðun https://open.kattis.com/problems/aldursrodun
+
+Solutions along with AI explanations:
+
+
 ## 2/3/26 2-4pm
 Participants: Luke, Remington, Micah, and Dr. Lu
 
