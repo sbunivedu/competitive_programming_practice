@@ -3,12 +3,13 @@
 ## 2/10/26 2-4pm
 Participants: Luke, Remington, Micah, and Dr. Lu
 
-They solved the followin problems:
+They solved the following problems:
 * I Hate The Number Nine https://open.kattis.com/problems/nine
 * Aldursröðun https://open.kattis.com/problems/aldursrodun
 
 Solutions along with AI explanations:
-
+* https://github.com/sbunivedu/ICPC_practice/tree/main/hatenine
+* https://github.com/sbunivedu/ICPC_practice/tree/main/age
 
 ## 2/3/26 2-4pm
 Participants: Luke, Remington, Micah, and Dr. Lu
