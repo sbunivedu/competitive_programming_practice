@@ -1,5 +1,29 @@
 # Competitive Programming Meeting Minutes
 
+## 3/10/16
+
+brainstorm problems for high school programming contest:
+
+https://github.com/mwermelinger/kattis-guide
+
+## 3/3/26
+Participants: Luke, Remington, Micah, and Dr. Lu
+
+* Asteroid Avoidance https://open.kattis.com/problems/asteroidavoidance
+
+## 2/24/26 2-4pm
+Participants: Luke, Remington, Micah, and Dr. Lu
+
+* Alien Integers https://open.kattis.com/problems/alienintegers
+
+solution and explanation from AI https://github.com/sbunivedu/ICPC_practice/tree/main/alien
+
+## 2/17/26 2-4pm
+Participants: Luke, Remington, Micah, and Dr. Lu
+
+* 99 Problems	https://open.kattis.com/problems/99problems
+* 99 Problems (fast I/O method) https://open.kattis.com/problems/99problems2
+
 ## 2/10/26 2-4pm
 Participants: Luke, Remington, Micah, and Dr. Lu
 
