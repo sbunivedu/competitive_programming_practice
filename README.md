@@ -1,5 +1,12 @@
 # Competitive Programming Meeting Minutes
 
+## 3/24/26
+Participants: Luke, Remington, Micah, and Dr. Lu
+
+Luke solved
+* https://open.kattis.com/problems/alphabetanimals
+* https://open.kattis.com/problems/alloys
+
 ## 3/10/16
 
 brainstorm problems for high school programming contest:
