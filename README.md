@@ -1,7 +1,7 @@
 # Competitive Programming Meeting Minutes
 
 ## 8/25/26
-Participants: 
+Participants: Caleb B., Nicolas F., Luke T., Micah J., Micah T., Allison M., Malachi N., Donovan D., Remington R., Luke N., and Joshua W.
 
 Resources:
 * [syllabus](https://docs.google.com/document/d/15FPqudErWPuPlrNOyULz6xnnmTiPjDhxpxnZjG_nMu8/edit?tab=t.0#heading=h.6uycqr2jofom) 
