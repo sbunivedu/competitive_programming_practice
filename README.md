@@ -7,6 +7,7 @@ Resources:
 * [syllabus](https://docs.google.com/document/d/15FPqudErWPuPlrNOyULz6xnnmTiPjDhxpxnZjG_nMu8/edit?tab=t.0#heading=h.6uycqr2jofom) 
 * [diagnostic ladder](diagnostic_ladder.md) 
 * [Introduction to Pythong Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity, free, for beginners)
+* [onecompiler](https://onecompiler.com/) seems to be a good online coding environment.
 
 ## 3/24/26
 Participants: Luke, Remington, Micah, and Dr. Lu
