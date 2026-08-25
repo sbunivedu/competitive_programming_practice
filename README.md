@@ -1,5 +1,13 @@
 # Competitive Programming Meeting Minutes
 
+## 8/25/26
+Participants: 
+
+Resources:
+* [syllabus](https://docs.google.com/document/d/15FPqudErWPuPlrNOyULz6xnnmTiPjDhxpxnZjG_nMu8/edit?tab=t.0#heading=h.6uycqr2jofom) 
+* [diagnostic ladder](diagnostic_ladder.md) 
+
+
 ## 3/24/26
 Participants: Luke, Remington, Micah, and Dr. Lu
 
