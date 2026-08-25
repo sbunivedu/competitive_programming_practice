@@ -448,6 +448,29 @@ Ask:
 
 > Why is `i * i <= n` sufficient?
 
+<details>
+<summary>answer</summary>
+
+Because if $n$ is composite, it must have a factor no greater than $\sqrt n$.
+Suppose
+
+$n = a \times b$
+
+where $a$ and $b$ are integers greater than 1. If both $a$ and $b$ were greater than $\sqrt n$, then
+
+$a > \sqrt n,\qquad b > \sqrt n$
+
+so
+
+$ab > \sqrt n \times \sqrt n = n,$
+
+which contradicts $ab=n$.
+
+Therefore, at least one factor must satisfy
+
+$a \leq \sqrt n$.
+</details>
+
 If the student can explain this, they are beginning to think algorithmically rather than merely syntactically.
 
 # Level 2 Interpretation
