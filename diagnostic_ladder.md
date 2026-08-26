@@ -543,6 +543,9 @@ Ask:
 
 > Why shouldn't we initialize `max` to 0?
 
+<details>
+<summary>answer</summary>
+
 A good student should identify:
 
 ```text
@@ -550,6 +553,8 @@ A good student should identify:
 ```
 
 as a counterexample.
+
+</details>
 
 # Problem 11 — Linear Search
 
@@ -584,7 +589,11 @@ Ask:
 
 > What is the worst-case time complexity?
 
-Answer: $O(n)$
+<details>
+<summary>answer</summary>
+
+$O(n)$
+</details>
 
 # Problem 12 — Count Vowels
 
