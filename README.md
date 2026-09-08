@@ -1,5 +1,11 @@
 # Competitive Programming Meeting Minutes
 
+
+## 9/1/26
+Participants: Micah J., Micah T. Remington R., Luke N., and Dr. Lu.
+
+We need a problem set for students to drill on "DP" problem solving. 
+
 ## 8/25/26
 Participants: Caleb B., Nicolas F., Luke T., Micah J., Micah T., Allison M., Malachi N., Donovan D., Remington R., Luke N., and Joshua W.
 

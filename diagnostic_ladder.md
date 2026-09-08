@@ -895,8 +895,34 @@ Ask:
 
 > Why can we safely move `left` or `right`?
 
+recursively.
+
+<details>
+<summary>Answer</summary>
+
 Students who can explain this are demonstrating algorithmic reasoning.
 
+Because the array is sorted, we can eliminate entire ranges of elements:
+
+When `sum < target` (move left forward):
+
+If `a[left] + a[right]` is too small, we know:
+
+* All elements to the left of left are smaller than `a[left]`
+* So pairing them with `a[right]` would give us an even smaller sum
+* Therefore, no pair exists between any element to the left of left and `a[right]`
+* We can safely discard `a[left]` and move left forward 
+
+When `sum > target` (move right backward):
+
+If `a[left] + a[right]` is too large, we know:
+
+* All elements to the right of right are larger than `a[right]`
+* So pairing them with `a[left]` would give us an even larger `sum`
+* Therefore, no pair exists between `a[left]` and any element to the right of right
+* We can safely discard `a[right]` and move right backward
+
+</details>
 
 # Problem 18 — Prefix Sum
 
