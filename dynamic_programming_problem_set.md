@@ -197,7 +197,7 @@ Find the minimum possible cost.
 ### Output
 
 ```text
-30
+40
 ```
 
 ### Constraints
@@ -225,8 +225,8 @@ dp[i] = min(
 
 **Difficulty:** ★
 
-
-# Problem 2 — Frog Jump
+<details>
+<summary>Solution</summary>
 
 ### DP state
 
