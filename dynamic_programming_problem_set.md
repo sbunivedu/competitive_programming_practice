@@ -359,10 +359,10 @@ Find the minimum cost required to reach the top.
 
 **Difficulty:** ★
 
+Assume the student may start before the first stair and may finish by stepping beyond the last stair.
+
 <details>
 <summary>Solution</summary>
-
-Assume the student may start before the first stair and may finish by stepping beyond the last stair.
 
 ### State
 
@@ -373,6 +373,8 @@ dp[i] = minimum cost to reach stair i
 ### Java solution
 
 ```java
+// https://leetcode.com/problems/min-cost-climbing-stairs/description/
+
 import java.util.*;
 
 public class Main {
@@ -414,7 +416,7 @@ public class Main {
 Output:
 
 ```text
-30
+25
 ```
 </details>
 
@@ -590,7 +592,7 @@ Maximize the sum.
 ### Output
 
 ```text
-27
+23
 ```
 
 **Expected technique:** 1D DP
@@ -646,8 +648,23 @@ This version uses **O(1) space**.
 Output:
 
 ```text
-27
+23
 ```
+
+Let `dp[i]` be the maximum sum using the first `i` elements.
+
+| Element | Value |     DP |
+| ------: | ----: | -----: |
+|       — |     — |      0 |
+|       1 |     5 |      5 |
+|       2 |     1 |      5 |
+|       3 |     2 |      7 |
+|       4 |    10 |     15 |
+|       5 |     6 |     15 |
+|       6 |     2 |     17 |
+|       7 |     8 | **23** |
+|       8 |     4 | **23** |
+
 </details>
 
 
