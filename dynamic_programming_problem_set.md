@@ -314,7 +314,7 @@ Output:
 Output:
 
 ```text
-20
+10
 ```
 
 **Test 3**
