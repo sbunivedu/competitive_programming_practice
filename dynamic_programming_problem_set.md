@@ -926,6 +926,7 @@ Output:
 ```text
 4
 ```
+![a explanation with tracing](number_of_ways_to_make_change.md)
 
 ### Another test
 
