@@ -1087,7 +1087,7 @@ A robot cannot enter a blocked cell.
 ### Output
 
 ```text
-13
+5
 ```
 
 **Expected technique:** Grid DP
@@ -1166,7 +1166,7 @@ public class Main {
 Output:
 
 ```text
-13
+5
 ```
 
 ### Important edge case
