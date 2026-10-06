@@ -1609,6 +1609,8 @@ IMPOSSIBLE
 ```
 </details>
 
+[detailed explanation](exact_0_1_knapsack.md)
+
 # Problem 13 — Limited Supplies
 
 There are `N` types of coins.
@@ -1624,15 +1626,15 @@ Find the maximum number of dollars that can be formed without exceeding `C`.
 
 ```text
 3 10
-3 2
-4 1
-5 1
+3 2 2
+4 1 1
+5 1 1
 ```
 
-### Output
+### Output:
 
 ```text
-10
+5
 ```
 
 **Expected technique:** Bounded knapsack
