@@ -1,5 +1,10 @@
 # Competitive Programming Meeting Minutes
 
+## 10/27/26
+
+Remington created the following two exploratory references in Python in preparation for the upcoming contest:
+* [Python Methods and Libraries Reference](Python_Methods_and_Libraries_Reference.pdf)
+* [Python Reference for Competitive Programming](Python_Reference_for_Competitive_Programming.pdf)
 
 ## 9/1/26
 Participants: Micah J., Micah T. Remington R., Luke N., and Dr. Lu.
